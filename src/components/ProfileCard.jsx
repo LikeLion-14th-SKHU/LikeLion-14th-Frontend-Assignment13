@@ -1,7 +1,7 @@
 import SkillTag from './SkillTag'
 
 function ProfileCard() {
-  const skills = ['React', 'Tailwind', 'Figma', 'JavaScript', 'JavaScript', 'JavaScript', 'JavaScript',]
+  const skills = ['React', 'Tailwind', 'Figma', 'JavaScript',]
 
   return (
     <div className="flex w-[700px] flex-col gap-[60px] rounded-[30px] bg-white p-[50px]">
