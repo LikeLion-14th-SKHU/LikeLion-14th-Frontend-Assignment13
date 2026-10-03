@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+@import 'tailwindcss';
+
+/* Figma 색상 스타일 → Tailwind 테마 토큰 */
+@theme {
+  --color-brand-orange: #ff7137;
+  --color-tag-blue: #01b6ff;
+  --color-github-green: #24cb72;
+  --color-canvas: #d9d9d9;
+  --font-sans: 'Inter', 'Pretendard', 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif;
+}
