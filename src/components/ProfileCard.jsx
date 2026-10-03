@@ -37,7 +37,7 @@ function ProfileCard() {
 
       <div className="flex w-full justify-end">
         <button
-          className="w-fit rounded-[20px] bg-emerald-500 px-10 py-2.5 text-[32px] hover:bg-emerald-600">
+          className="w-fit rounded-[20px] bg-emerald-500 px-10 py-2.5 text-[32px]">
           GitHub
         </button>
       </div>
