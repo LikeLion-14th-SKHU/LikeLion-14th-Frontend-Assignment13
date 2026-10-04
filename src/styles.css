@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+  --color-canvas: #d9d9d9;
+  --color-avatar: #ff7137;
+  --color-tag: #01b6ff;
+  --color-github: #24cb72;
+}
+
+@layer base {
+  body { margin: 0; }
+  button:not(:disabled), summary { cursor: pointer; }
+}
